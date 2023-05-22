@@ -10,3 +10,7 @@ The gestures given below refer to these corresponding commands:
 Each video consists of a sequence of 30 frames.
 
 Look into the Gesture_recognition_project.docx for more details on the various models used for this project.
+
+SOURCE OF PROJECT DATA
+ https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+ 
